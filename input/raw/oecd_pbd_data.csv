@@ -1,0 +1,23 @@
+﻿Country,pbd,Notes
+Austria,20,2022 policy description says 20 weeks
+Germany,78,"If contribution is 36 months, get 18 months, which seems a bar average person would clear"
+Norway,104,"2 different lengths, but 104 is for people who make at least 2x basic amount, which tracks the assumption of average income from RR"
+Finland,80,is 60 weeks for people with less than 3 year employment history
+France,104,is generally weeks worked in reference period multiplied by 1.4. Max is 104 tho and it seems that the average person would hit the max
+Netherlands,65,Median age in netherlands is slightly above 42. This means around 20 years of employment should be typical so duration is 15 months
+Portugal,77,Median age is between 40 and 49; contributory career >= 24 months can be assumed for average person; so 540 days
+Slovenia,39,Typical worker between 15-25 years of work so 9 months
+Spain,86,Typical worker likely contributes around 1800-1979 days in previous 6 years; 600 days
+Sweden,43,We are assuming for RR no kids; so 300 days
+Switzerland,57,Typical worker probably has 18 month contribution in last 2 years; typical worker older than 25; 400 days
+Belgium,NA,
+Denmark,104,2 years within 3 year period for everyone
+Estonia,51,"360 days if at least 10 years of contribution, which median person would reach"
+Greece,52,12 months if 250 days of emeployment in 14 month period
+Hungary,90,1 day for every 10 days worked in previous 3 years and capped at 90; 900 days+ seems typical
+Iceland,130,30 months
+Ireland,39,234 days; 6 days per week for typical person
+Italy,104,"half of the weeks worked in previous 4 years; 104 is slightly higher than median likely, but don't know a good adjustment"
+Latvia,35,8 months
+Lithuania,39,9 months
+Luxembourg,52,365 days for typical person

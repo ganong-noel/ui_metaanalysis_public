@@ -1,0 +1,758 @@
+"","LOCATION","Country","FAMILY","Family.type","DURATION","Unemployment.duration..months.","EARNINGS","Previous.in.work.earnings","SATOPUPS","Include.social.assistance.benefits","HBTOPUPS","Include.housing.benefits","TIME","Year","Value","Flag.Codes","Flags"
+"1","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,35,NA,NA
+"2","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,34,NA,NA
+"3","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,34,NA,NA
+"4","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,33,NA,NA
+"5","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,32,NA,NA
+"6","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,32,NA,NA
+"7","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,31,NA,NA
+"8","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,30,NA,NA
+"9","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,30,NA,NA
+"10","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,29,NA,NA
+"11","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,28,NA,NA
+"12","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,28,NA,NA
+"13","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,28,NA,NA
+"14","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,28,NA,NA
+"15","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,28,NA,NA
+"16","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,28,NA,NA
+"17","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,28,NA,NA
+"18","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,27,NA,NA
+"19","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,27,NA,NA
+"20","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,27,NA,NA
+"21","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,31,NA,NA
+"22","AUS","Australia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,28,NA,NA
+"23","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,66,NA,NA
+"24","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,65,NA,NA
+"25","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,64,NA,NA
+"26","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,64,NA,NA
+"27","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,63,NA,NA
+"28","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,62,NA,NA
+"29","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,62,NA,NA
+"30","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,61,NA,NA
+"31","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,60,NA,NA
+"32","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,60,NA,NA
+"33","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,55,NA,NA
+"34","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,55,NA,NA
+"35","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,55,NA,NA
+"36","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,55,NA,NA
+"37","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,55,NA,NA
+"38","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,55,NA,NA
+"39","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,55,NA,NA
+"40","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,55,NA,NA
+"41","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,55,NA,NA
+"42","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,55,NA,NA
+"43","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,55,NA,NA
+"44","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,56,NA,NA
+"45","AUT","Austria","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,55,NA,NA
+"46","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,56,NA,NA
+"47","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,56,NA,NA
+"48","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,56,NA,NA
+"49","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,53,NA,NA
+"50","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,52,NA,NA
+"51","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,49,NA,NA
+"52","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,49,NA,NA
+"53","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,49,NA,NA
+"54","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,49,NA,NA
+"55","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,49,NA,NA
+"56","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,50,NA,NA
+"57","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,51,NA,NA
+"58","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,51,NA,NA
+"59","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,50,NA,NA
+"60","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,49,NA,NA
+"61","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,49,NA,NA
+"62","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,48,NA,NA
+"63","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,47,NA,NA
+"64","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,51,NA,NA
+"65","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,47,NA,NA
+"66","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,47,NA,NA
+"67","CAN","Canada","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,48,NA,NA
+"68","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,45,NA,NA
+"69","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,44,NA,NA
+"70","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,43,NA,NA
+"71","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,43,NA,NA
+"72","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,46,NA,NA
+"73","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,46,NA,NA
+"74","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,50,NA,NA
+"75","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,53,NA,NA
+"76","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,55,NA,NA
+"77","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,55,NA,NA
+"78","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,55,NA,NA
+"79","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,55,NA,NA
+"80","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,55,NA,NA
+"81","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,55,NA,NA
+"82","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,55,NA,NA
+"83","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,55,NA,NA
+"84","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,56,NA,NA
+"85","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,56,NA,NA
+"86","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,56,NA,NA
+"87","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,56,NA,NA
+"88","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,54,NA,NA
+"89","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,54,NA,NA
+"90","CZE","Czechia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,57,NA,NA
+"91","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,65,NA,NA
+"92","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,64,NA,NA
+"93","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,65,NA,NA
+"94","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,63,NA,NA
+"95","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,64,NA,NA
+"96","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,63,NA,NA
+"97","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,62,NA,NA
+"98","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,62,NA,NA
+"99","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,62,NA,NA
+"100","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,62,NA,NA
+"101","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,62,NA,NA
+"102","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,63,NA,NA
+"103","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,62,NA,NA
+"104","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,62,NA,NA
+"105","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,62,NA,NA
+"106","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,62,NA,NA
+"107","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,62,NA,NA
+"108","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,63,NA,NA
+"109","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,59,NA,NA
+"110","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,59,NA,NA
+"111","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,58,NA,NA
+"112","DNK","Denmark","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,56,NA,NA
+"113","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,60,NA,NA
+"114","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,63,NA,NA
+"115","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,61,NA,NA
+"116","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,55,NA,NA
+"117","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,54,NA,NA
+"118","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,53,NA,NA
+"119","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,51,NA,NA
+"120","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,51,NA,NA
+"121","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,52,NA,NA
+"122","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,53,NA,NA
+"123","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,54,NA,NA
+"124","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,57,NA,NA
+"125","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,57,NA,NA
+"126","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,71,NA,NA
+"127","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,65,NA,NA
+"128","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,65,NA,NA
+"129","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,55,NA,NA
+"130","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,53,NA,NA
+"131","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,53,NA,NA
+"132","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,53,NA,NA
+"133","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,53,NA,NA
+"134","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,53,NA,NA
+"135","FIN","Finland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,54,NA,NA
+"136","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,69,NA,NA
+"137","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,69,NA,NA
+"138","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,67,NA,NA
+"139","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,67,NA,NA
+"140","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,67,NA,NA
+"141","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,67,NA,NA
+"142","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,66,NA,NA
+"143","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,66,NA,NA
+"144","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,66,NA,NA
+"145","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,66,NA,NA
+"146","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,66,NA,NA
+"147","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,66,NA,NA
+"148","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,67,NA,NA
+"149","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,66,NA,NA
+"150","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,68,NA,NA
+"151","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,68,NA,NA
+"152","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,68,NA,NA
+"153","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,68,NA,NA
+"154","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,68,NA,NA
+"155","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,68,NA,NA
+"156","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,68,NA,NA
+"157","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,68,NA,NA
+"158","FRA","France","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,68,NA,NA
+"159","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,61,NA,NA
+"160","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,61,NA,NA
+"161","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,61,NA,NA
+"162","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,61,NA,NA
+"163","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,61,NA,NA
+"164","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,62,NA,NA
+"165","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,61,NA,NA
+"166","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,60,NA,NA
+"167","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,61,NA,NA
+"168","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,60,NA,NA
+"169","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,59,NA,NA
+"170","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,59,NA,NA
+"171","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,59,NA,NA
+"172","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,59,NA,NA
+"173","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,59,NA,NA
+"174","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,59,NA,NA
+"175","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,59,NA,NA
+"176","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,59,NA,NA
+"177","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,59,NA,NA
+"178","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,59,NA,NA
+"179","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,59,NA,NA
+"180","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,59,NA,NA
+"181","DEU","Germany","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,59,NA,NA
+"182","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,39,NA,NA
+"183","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,38,NA,NA
+"184","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,41,NA,NA
+"185","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,36,NA,NA
+"186","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,39,NA,NA
+"187","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,39,NA,NA
+"188","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,42,NA,NA
+"189","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,50,NA,NA
+"190","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,49,NA,NA
+"191","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,36,NA,NA
+"192","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,35,NA,NA
+"193","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,28,NA,NA
+"194","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,31,NA,NA
+"195","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,30,NA,NA
+"196","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,31,NA,NA
+"197","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,32,NA,NA
+"198","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,33,NA,NA
+"199","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,33,NA,NA
+"200","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,32,NA,NA
+"201","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,43,NA,NA
+"202","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,40,NA,NA
+"203","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,38,NA,NA
+"204","GRC","Greece","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,38,NA,NA
+"205","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,46,NA,NA
+"206","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,44,NA,NA
+"207","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,43,NA,NA
+"208","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,41,NA,NA
+"209","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,41,NA,NA
+"210","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,53,NA,NA
+"211","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,35,NA,NA
+"212","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,33,NA,NA
+"213","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,33,NA,NA
+"214","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,30,NA,NA
+"215","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,31,NA,NA
+"216","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,18,NA,NA
+"217","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,17,NA,NA
+"218","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,16,NA,NA
+"219","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,13,NA,NA
+"220","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,12,NA,NA
+"221","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,11,NA,NA
+"222","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,10,NA,NA
+"223","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,9,NA,NA
+"224","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,8,NA,NA
+"225","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,8,NA,NA
+"226","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,7,NA,NA
+"227","HUN","Hungary","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,6,NA,NA
+"228","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,41,NA,NA
+"229","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,42,NA,NA
+"230","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,42,NA,NA
+"231","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,43,NA,NA
+"232","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,43,NA,NA
+"233","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,45,NA,NA
+"234","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,47,NA,NA
+"235","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,47,NA,NA
+"236","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,47,NA,NA
+"237","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,45,NA,NA
+"238","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,46,NA,NA
+"239","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,44,NA,NA
+"240","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,46,NA,NA
+"241","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,46,NA,NA
+"242","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,45,NA,NA
+"243","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,48,NA,NA
+"244","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,45,NA,NA
+"245","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,47,NA,NA
+"246","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,44,NA,NA
+"247","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,44,NA,NA
+"248","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,57,NA,NA
+"249","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,41,NA,NA
+"250","IRL","Ireland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,40,NA,NA
+"251","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,51,NA,NA
+"252","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,52,NA,NA
+"253","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,54,NA,NA
+"254","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,54,NA,NA
+"255","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,61,NA,NA
+"256","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,60,NA,NA
+"257","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,60,NA,NA
+"258","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,58,NA,NA
+"259","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,59,NA,NA
+"260","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,58,NA,NA
+"261","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,57,NA,NA
+"262","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,57,NA,NA
+"263","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,58,NA,NA
+"264","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,62,NA,NA
+"265","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,63,NA,NA
+"266","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,62,NA,NA
+"267","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,62,NA,NA
+"268","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,62,NA,NA
+"269","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,62,NA,NA
+"270","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,62,NA,NA
+"271","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,60,NA,NA
+"272","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,62,NA,NA
+"273","ITA","Italy","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,63,NA,NA
+"274","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,74,NA,NA
+"275","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,73,NA,NA
+"276","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,60,NA,NA
+"277","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,61,NA,NA
+"278","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,61,NA,NA
+"279","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,62,NA,NA
+"280","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,62,NA,NA
+"281","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,62,NA,NA
+"282","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,62,NA,NA
+"283","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,63,NA,NA
+"284","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,63,NA,NA
+"285","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,63,NA,NA
+"286","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,63,NA,NA
+"287","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,64,NA,NA
+"288","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,64,NA,NA
+"289","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,64,NA,NA
+"290","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,63,NA,NA
+"291","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,64,NA,NA
+"292","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,64,NA,NA
+"293","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,64,NA,NA
+"294","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,64,NA,NA
+"295","JPN","Japan","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,67,NA,NA
+"296","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,55,NA,NA
+"297","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,55,NA,NA
+"298","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,55,NA,NA
+"299","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,52,NA,NA
+"300","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,48,NA,NA
+"301","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,53,NA,NA
+"302","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,51,NA,NA
+"303","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,49,NA,NA
+"304","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,47,NA,NA
+"305","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,45,NA,NA
+"306","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,47,NA,NA
+"307","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,45,NA,NA
+"308","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,44,NA,NA
+"309","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,43,NA,NA
+"310","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,45,NA,NA
+"311","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,44,NA,NA
+"312","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,49,NA,NA
+"313","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,56,NA,NA
+"314","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,59,NA,NA
+"315","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,61,NA,NA
+"316","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,58,NA,NA
+"317","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,55,NA,NA
+"318","KOR","Korea","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,53,NA,NA
+"319","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,85,NA,NA
+"320","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,84,NA,NA
+"321","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,84,NA,NA
+"322","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,84,NA,NA
+"323","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,85,NA,NA
+"324","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,85,NA,NA
+"325","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,85,NA,NA
+"326","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,85,NA,NA
+"327","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,84,NA,NA
+"328","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,84,NA,NA
+"329","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,85,NA,NA
+"330","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,85,NA,NA
+"331","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,85,NA,NA
+"332","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,85,NA,NA
+"333","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,86,NA,NA
+"334","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,86,NA,NA
+"335","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,86,NA,NA
+"336","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,86,NA,NA
+"337","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,86,NA,NA
+"338","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,86,NA,NA
+"339","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,86,NA,NA
+"340","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,86,NA,NA
+"341","LUX","Luxembourg","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,86,NA,NA
+"342","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,49,NA,NA
+"343","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,49,NA,NA
+"344","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,50,NA,NA
+"345","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,66,NA,NA
+"346","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,65,NA,NA
+"347","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,71,NA,NA
+"348","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,70,NA,NA
+"349","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,70,NA,NA
+"350","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,70,NA,NA
+"351","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,70,NA,NA
+"352","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,70,NA,NA
+"353","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,71,NA,NA
+"354","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,71,NA,NA
+"355","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,70,NA,NA
+"356","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,71,NA,NA
+"357","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,70,NA,NA
+"358","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,69,NA,NA
+"359","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,69,NA,NA
+"360","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,70,NA,NA
+"361","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,70,NA,NA
+"362","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,70,NA,NA
+"363","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,70,NA,NA
+"364","NLD","Netherlands","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,69,NA,NA
+"365","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,41,NA,NA
+"366","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,40,NA,NA
+"367","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,40,NA,NA
+"368","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,39,NA,NA
+"369","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,41,NA,NA
+"370","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,41,NA,NA
+"371","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,41,NA,NA
+"372","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,41,NA,NA
+"373","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,39,NA,NA
+"374","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,39,NA,NA
+"375","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,38,NA,NA
+"376","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,38,NA,NA
+"377","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,37,NA,NA
+"378","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,36,NA,NA
+"379","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,35,NA,NA
+"380","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,34,NA,NA
+"381","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,34,NA,NA
+"382","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,34,NA,NA
+"383","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,34,NA,NA
+"384","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,38,NA,NA
+"385","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,37,NA,NA
+"386","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,40,NA,NA
+"387","NZL","New Zealand","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,40,NA,NA
+"388","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,64,NA,NA
+"389","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,63,NA,NA
+"390","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,64,NA,NA
+"391","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,64,NA,NA
+"392","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,64,NA,NA
+"393","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,63,NA,NA
+"394","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,64,NA,NA
+"395","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,64,NA,NA
+"396","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,64,NA,NA
+"397","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,64,NA,NA
+"398","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,65,NA,NA
+"399","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,65,NA,NA
+"400","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,65,NA,NA
+"401","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,65,NA,NA
+"402","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,65,NA,NA
+"403","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,65,NA,NA
+"404","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,65,NA,NA
+"405","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,63,NA,NA
+"406","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,63,NA,NA
+"407","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,63,NA,NA
+"408","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,62,NA,NA
+"409","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,70,NA,NA
+"410","NOR","Norway","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,63,NA,NA
+"411","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,51,NA,NA
+"412","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,51,NA,NA
+"413","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,51,NA,NA
+"414","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,51,NA,NA
+"415","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,51,NA,NA
+"416","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,51,NA,NA
+"417","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,47,NA,NA
+"418","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,45,NA,NA
+"419","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,45,NA,NA
+"420","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,45,NA,NA
+"421","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,44,NA,NA
+"422","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,44,NA,NA
+"423","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,44,NA,NA
+"424","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,43,NA,NA
+"425","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,42,NA,NA
+"426","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,41,NA,NA
+"427","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,41,NA,NA
+"428","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,40,NA,NA
+"429","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,39,NA,NA
+"430","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,37,NA,NA
+"431","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,41,NA,NA
+"432","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,40,NA,NA
+"433","POL","Poland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,39,NA,NA
+"434","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,83,NA,NA
+"435","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,84,NA,NA
+"436","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,84,NA,NA
+"437","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,84,NA,NA
+"438","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,83,NA,NA
+"439","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,84,NA,NA
+"440","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,84,NA,NA
+"441","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,83,NA,NA
+"442","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,83,NA,NA
+"443","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,75,NA,NA
+"444","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,75,NA,NA
+"445","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,75,NA,NA
+"446","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,75,NA,NA
+"447","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,75,NA,NA
+"448","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,75,NA,NA
+"449","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,75,NA,NA
+"450","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,75,NA,NA
+"451","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,75,NA,NA
+"452","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,75,NA,NA
+"453","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,75,NA,NA
+"454","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,75,NA,NA
+"455","PRT","Portugal","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,75,NA,NA
+"456","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,53,NA,NA
+"457","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,52,NA,NA
+"458","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,52,NA,NA
+"459","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,64,NA,NA
+"460","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,64,NA,NA
+"461","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,64,NA,NA
+"462","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,65,NA,NA
+"463","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,65,NA,NA
+"464","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,64,NA,NA
+"465","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,64,NA,NA
+"466","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,65,NA,NA
+"467","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,65,NA,NA
+"468","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,65,NA,NA
+"469","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,65,NA,NA
+"470","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,65,NA,NA
+"471","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,65,NA,NA
+"472","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,66,NA,NA
+"473","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,66,NA,NA
+"474","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,65,NA,NA
+"475","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,65,NA,NA
+"476","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,66,NA,NA
+"477","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,66,NA,NA
+"478","SVK","Slovak Republic","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,66,NA,NA
+"479","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,63,NA,NA
+"480","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,62,NA,NA
+"481","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,62,NA,NA
+"482","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,62,NA,NA
+"483","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,62,NA,NA
+"484","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,61,NA,NA
+"485","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,62,NA,NA
+"486","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,61,NA,NA
+"487","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,60,NA,NA
+"488","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,60,NA,NA
+"489","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,58,NA,NA
+"490","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,58,NA,NA
+"491","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,56,NA,NA
+"492","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,56,NA,NA
+"493","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,56,NA,NA
+"494","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,55,NA,NA
+"495","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,56,NA,NA
+"496","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,56,NA,NA
+"497","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,55,NA,NA
+"498","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,58,NA,NA
+"499","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,58,NA,NA
+"500","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,64,NA,NA
+"501","ESP","Spain","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,66,NA,NA
+"502","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,66,NA,NA
+"503","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,68,NA,NA
+"504","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,67,NA,NA
+"505","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,65,NA,NA
+"506","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,63,NA,NA
+"507","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,62,NA,NA
+"508","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,54,NA,NA
+"509","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,51,NA,NA
+"510","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,49,NA,NA
+"511","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,48,NA,NA
+"512","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,47,NA,NA
+"513","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,45,NA,NA
+"514","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,44,NA,NA
+"515","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,43,NA,NA
+"516","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,42,NA,NA
+"517","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,54,NA,NA
+"518","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,52,NA,NA
+"519","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,51,NA,NA
+"520","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,50,NA,NA
+"521","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,49,NA,NA
+"522","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,62,NA,NA
+"523","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,59,NA,NA
+"524","SWE","Sweden","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,57,NA,NA
+"525","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,71,NA,NA
+"526","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,70,NA,NA
+"527","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,71,NA,NA
+"528","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,70,NA,NA
+"529","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,71,NA,NA
+"530","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,70,NA,NA
+"531","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,70,NA,NA
+"532","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,72,NA,NA
+"533","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,71,NA,NA
+"534","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,71,NA,NA
+"535","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,71,NA,NA
+"536","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,71,NA,NA
+"537","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,71,NA,NA
+"538","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,71,NA,NA
+"539","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,73,NA,NA
+"540","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,72,NA,NA
+"541","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,73,NA,NA
+"542","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,73,NA,NA
+"543","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,73,NA,NA
+"544","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,74,NA,NA
+"545","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,74,NA,NA
+"546","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,74,NA,NA
+"547","CHE","Switzerland","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,74,NA,NA
+"548","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,38,NA,NA
+"549","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,42,NA,NA
+"550","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,50,NA,NA
+"551","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,49,NA,NA
+"552","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,54,NA,NA
+"553","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,54,NA,NA
+"554","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,54,NA,NA
+"555","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,54,NA,NA
+"556","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,54,NA,NA
+"557","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,54,NA,NA
+"558","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,53,NA,NA
+"559","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,55,NA,NA
+"560","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,55,NA,NA
+"561","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,55,NA,NA
+"562","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,55,NA,NA
+"563","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,54,NA,NA
+"564","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,55,NA,NA
+"565","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,44,NA,NA
+"566","TUR","Türkiye","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,42,NA,NA
+"567","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,41,NA,NA
+"568","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,41,NA,NA
+"569","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,41,NA,NA
+"570","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,41,NA,NA
+"571","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,41,NA,NA
+"572","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,40,NA,NA
+"573","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,40,NA,NA
+"574","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,38,NA,NA
+"575","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,39,NA,NA
+"576","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,38,NA,NA
+"577","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,39,NA,NA
+"578","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,38,NA,NA
+"579","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,38,NA,NA
+"580","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,38,NA,NA
+"581","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,37,NA,NA
+"582","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,36,NA,NA
+"583","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,35,NA,NA
+"584","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,34,NA,NA
+"585","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,34,NA,NA
+"586","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,41,NA,NA
+"587","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,39,NA,NA
+"588","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,35,NA,NA
+"589","GBR","United Kingdom","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,33,NA,NA
+"590","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,54,NA,NA
+"591","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,52,NA,NA
+"592","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,60,NA,NA
+"593","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,59,NA,NA
+"594","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,58,NA,NA
+"595","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,56,NA,NA
+"596","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,53,NA,NA
+"597","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,53,NA,NA
+"598","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,50,NA,NA
+"599","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,49,NA,NA
+"600","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,47,NA,NA
+"601","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,46,NA,NA
+"602","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,46,NA,NA
+"603","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,31,NA,NA
+"604","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,31,NA,NA
+"605","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,31,NA,NA
+"606","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,31,NA,NA
+"607","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,29,NA,NA
+"608","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,29,NA,NA
+"609","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,28,NA,NA
+"610","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,41,NA,NA
+"611","USA","United States","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,27,NA,NA
+"612","CHL","Chile","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,37,NA,NA
+"613","CHL","Chile","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,37,NA,NA
+"614","CHL","Chile","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,37,NA,NA
+"615","CHL","Chile","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,37,NA,NA
+"616","CHL","Chile","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,43,NA,NA
+"617","HRV","Croatia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,38,NA,NA
+"618","HRV","Croatia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,39,NA,NA
+"619","HRV","Croatia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,37,NA,NA
+"620","HRV","Croatia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,38,NA,NA
+"621","HRV","Croatia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,36,NA,NA
+"622","HRV","Croatia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,36,NA,NA
+"623","HRV","Croatia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,37,NA,NA
+"624","HRV","Croatia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,37,NA,NA
+"625","HRV","Croatia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,36,NA,NA
+"626","HRV","Croatia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,35,NA,NA
+"627","HRV","Croatia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,35,NA,NA
+"628","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,45,NA,NA
+"629","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,45,NA,NA
+"630","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,44,NA,NA
+"631","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,44,NA,NA
+"632","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,43,NA,NA
+"633","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,44,NA,NA
+"634","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,44,NA,NA
+"635","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,44,NA,NA
+"636","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,44,NA,NA
+"637","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,44,NA,NA
+"638","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,44,NA,NA
+"639","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,44,NA,NA
+"640","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,44,NA,NA
+"641","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,47,NA,NA
+"642","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,47,NA,NA
+"643","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,47,NA,NA
+"644","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,47,NA,NA
+"645","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,47,NA,NA
+"646","EST","Estonia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,48,NA,NA
+"647","ISR","Israel","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,66,NA,NA
+"648","ISR","Israel","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,64,NA,NA
+"649","ISR","Israel","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,66,NA,NA
+"650","ISR","Israel","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,67,NA,NA
+"651","ISR","Israel","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,68,NA,NA
+"652","ISR","Israel","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,69,NA,NA
+"653","ISR","Israel","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,68,NA,NA
+"654","ISR","Israel","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,68,NA,NA
+"655","ISR","Israel","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,68,NA,NA
+"656","ISR","Israel","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,65,NA,NA
+"657","ISR","Israel","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,65,NA,NA
+"658","ISR","Israel","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,66,NA,NA
+"659","ISR","Israel","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,64,NA,NA
+"660","ISR","Israel","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,64,NA,NA
+"661","ISR","Israel","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,63,NA,NA
+"662","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,43,NA,NA
+"663","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,41,NA,NA
+"664","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,42,NA,NA
+"665","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,44,NA,NA
+"666","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,48,NA,NA
+"667","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,43,NA,NA
+"668","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,42,NA,NA
+"669","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,40,NA,NA
+"670","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,38,NA,NA
+"671","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,36,NA,NA
+"672","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,57,NA,NA
+"673","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,43,NA,NA
+"674","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,69,NA,NA
+"675","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,68,NA,NA
+"676","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,65,NA,NA
+"677","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,74,NA,NA
+"678","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,85,NA,NA
+"679","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,65,NA,NA
+"680","LTU","Lithuania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,66,NA,NA
+"681","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,35,NA,NA
+"682","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,35,NA,NA
+"683","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,35,NA,NA
+"684","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,33,NA,NA
+"685","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,33,NA,NA
+"686","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,32,NA,NA
+"687","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,30,NA,NA
+"688","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,31,NA,NA
+"689","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,31,NA,NA
+"690","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,32,NA,NA
+"691","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,32,NA,NA
+"692","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,31,NA,NA
+"693","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,35,NA,NA
+"694","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,34,NA,NA
+"695","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,43,NA,NA
+"696","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,42,NA,NA
+"697","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,46,NA,NA
+"698","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,44,NA,NA
+"699","MLT","Malta","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,43,NA,NA
+"700","ROU","Romania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,43,NA,NA
+"701","ROU","Romania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,48,NA,NA
+"702","ROU","Romania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,45,NA,NA
+"703","ROU","Romania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,38,NA,NA
+"704","ROU","Romania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,37,NA,NA
+"705","ROU","Romania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,37,NA,NA
+"706","ROU","Romania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,35,NA,NA
+"707","ROU","Romania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,33,NA,NA
+"708","ROU","Romania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,31,NA,NA
+"709","ROU","Romania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,29,NA,NA
+"710","ROU","Romania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,30,NA,NA
+"711","ROU","Romania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,29,NA,NA
+"712","ROU","Romania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,28,NA,NA
+"713","ROU","Romania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,27,NA,NA
+"714","ROU","Romania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,26,NA,NA
+"715","ROU","Romania","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,30,NA,NA
+"716","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,68,NA,NA
+"717","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,69,NA,NA
+"718","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,64,NA,NA
+"719","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,64,NA,NA
+"720","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,65,NA,NA
+"721","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,68,NA,NA
+"722","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,65,NA,NA
+"723","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,68,NA,NA
+"724","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,68,NA,NA
+"725","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,67,NA,NA
+"726","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,67,NA,NA
+"727","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,66,NA,NA
+"728","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,64,NA,NA
+"729","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,63,NA,NA
+"730","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,62,NA,NA
+"731","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,60,NA,NA
+"732","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,57,NA,NA
+"733","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,54,NA,NA
+"734","SVN","Slovenia","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,51,NA,NA
+"735","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2001,2001,57,NA,NA
+"736","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2002,2002,57,NA,NA
+"737","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2003,2003,56,NA,NA
+"738","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2004,2004,56,NA,NA
+"739","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2005,2005,56,NA,NA
+"740","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2006,2006,56,NA,NA
+"741","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2007,2007,56,NA,NA
+"742","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2008,2008,55,NA,NA
+"743","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2009,2009,56,NA,NA
+"744","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2010,2010,55,NA,NA
+"745","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2011,2011,54,NA,NA
+"746","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2012,2012,54,NA,NA
+"747","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2013,2013,54,NA,NA
+"748","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2014,2014,53,NA,NA
+"749","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2015,2015,53,NA,NA
+"750","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2016,2016,54,NA,NA
+"751","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2017,2017,54,NA,NA
+"752","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2018,2018,54,NA,NA
+"753","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2019,2019,54,NA,NA
+"754","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2020,2020,54,NA,NA
+"755","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2021,2021,56,NA,NA
+"756","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2022,2022,54,NA,NA
+"757","OECD","OECD - Total","SINGLE","Single person without children",5,5,"AW","Average Wage",1,"Yes",1,"Yes",2023,2023,54,NA,NA

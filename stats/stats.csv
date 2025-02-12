@@ -1,0 +1,127 @@
+"","statistic","value","page"
+"1","x times more likely",8.299323,1
+"2","rep rate optimal",0.281421,1
+"3","number of studies",57,2
+"4","top tercile vs bot tercile",2.425324,2
+"5","x times more likely low",8.299323,2
+"6","x time more likely high",13.110736,2
+"7","correction for ak",0.502845,2
+"8","correction for bma",0.371841,2
+"9","US RR elasticity",0.34,2
+"10","US PBD elasticity",0.23,2
+"11","Florida RR elasticity",0.29,2
+"12","Florida PBD elasticity",0.14,3
+"13","France RR elasticity",0.52,3
+"14","France PBD elasticity",0.8,3
+"15","gruber rep rate",0.023,3.1
+"16","rep rate optimal",0.281421,3
+"17","num macro studies",5,3
+"18","num journal publications",407,4
+"19","papers with info",57,4
+"20","percent quasi",0.719298,4
+"21","25th percentile impact",19.287,4
+"22","median impact factor",37.117,4
+"23","field journal ratio",0.473684,5
+"24","top five journal ratio",0.210526,5
+"25","econometric method journal ratio",0.070175,5
+"26","number of estimates",91,5
+"27","mean pbd elasticity",0.462393,5
+"28","mean rr elasticity",0.43135,5
+"29","baseline rr min",0.269,5
+"30","baseline rr max",0.9,5
+"31","baseline rr iqr",0.146523,5
+"32","percent quasi-methods PBD",0.9,5
+"33","percent quasi-methods RR",0.45,5
+"34","bottom tercile mean",0.237185,6
+"35","mid tercile mean",0.488621,6
+"36","top tercile mean",0.57525,6
+"37","percent positive",0.945055,8.8
+"38","percent positive",0.945055,8.8
+"39","percent positive in figure",0.963855,6.8
+"40","estimates excluded",8,7
+"41","beta in table 1 low",0.076273,9
+"42","beta in table 1 high",0.120492,9
+"43","upper end conf int",0.279382,9
+"44","latent mean PBD",0.094982,9
+"45","mean PBD",0.462393,9
+"46","latent mean RR",0.214447,9
+"47","mean RR",0.43135,9
+"48","PBD tau",0.249256,9
+"49","RR tau",0.262871,9
+"50","90% conf int low PBD",-0.315043,9
+"51","90% conf int high PBD",0.505008,9
+"52","90% conf int low RR",-0.217976,9
+"53","90% conf int high RR",0.646871,9
+"54","number of RR estimates",42,10.99
+"55","number of PBD estimates",49,10.99
+"56","RR lowest theta",0.01,11
+"57","RR highest theta",0.332642,11
+"58","PBD lowest theta",0.029073,11
+"59","PBD highest theta",0.331,11
+"60","Hunt elasticity",-3.321341,11.1
+"61","Hunt se",2.253767,11.1
+"62","Hunt elasticity",-3.321341,13
+"63","Hunt se",2.253767,13
+"64","model posterior dist for variance",0.527029,15
+"65","number of significant covariates",5,15
+"66","posterior mean rrxrr",0.39,15
+"67","US lower end RR",0.33,15
+"68","Europe upper end RR",0.86,15
+"69","Effect 50wk baseline on RR elasticity",0.05,15
+"70","Effect 50wk baseline on PBD elasticity",0.35,15
+"71","Roed and Westlie PBD elasticity",1.716143,15.14
+"72","Roed and Zhang RR elasticity",0.9545,15.14
+"73","posterior mean drop Norway",NA,15.14
+"74","effect 50wk baseline on RR elasticity",NA,15.44
+"75","average replacement rate",0.435,16
+"76","average weeks PBD",26,16
+"77","RR elasticity prediction",0.34,16
+"78","PBD elasticity prediction",0.23,16
+"79","Florida RR",0.33,16
+"80","Florida PBD high",12,16
+"81","Florida RR elasticity",0.29,16
+"82","Florida PBD elasticity",0.14,16
+"83","France RR",0.68,16
+"84","France RR elasticity",0.52,16
+"85","France PBD",104,16
+"86","France PBD elasticity",0.8,16
+"87","intercept",0.191,16.15
+"88","Aggregate Variation",0.024,16.15
+"89","US Dummy",-0.041,16.15
+"90","Tax Wedge",-0.001,16.15
+"91","US tax wedge",30.461555,16.15
+"92","admin data",-0.008,16.15
+"93","rdd",0.004,16.15
+"94","Baseline PBD",0.001,16.15
+"95","average weeks PBD",26,16.15
+"96","Baseline RR",0.39,16.15
+"97","average replacement rate",0.435,16.15
+"98","final number",0.34,16.15
+"99","US context PBD",26,18
+"100","employment rate",0.95,18
+"101","effect of 10 point increase RR",0.039,18
+"102","optimal rep rate",0.281421,18
+"103","optimal rep rate at sample avg",0.162463,20
+"104","ak optimal rep rate",0.411822,20
+"105","schmieder average",0.594,20.18
+"106","schmieder US median",0.38,20.18
+"107","optimal rep rate schmieder",0.083019,20.18
+"108","number studies",57,21
+"109","num macro studies",5,21
+"110","change for macro",0.024,22
+"111","posterior inclusion prob",0.173,22
+"112","lower end conf interval",0.08104,22
+"113","higher end conf interval",0.37896,22
+"114","total observations",72,5.88
+"115","typical hazard range",0.092381,2.88
+"116","typical hazard average",0.068552,2.88
+"117","Observation count",91,5.88
+"118","per paper-margin number",72,5.88
+"119","hunt elasticity",-3.321341,6.88
+"120","hunt se",2.253767,6.88
+"121","total observations",63,12.88
+"122","num papers",57,12.88
+"123","num papers two estimates",6,12.88
+"124","total observations",63,13.88
+"125","num papers",57,13.88
+"126","num papers with two estimates",6,13.88
