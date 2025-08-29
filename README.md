@@ -170,7 +170,6 @@ The computational requirements for replication are accessible to most users with
     - readr_2.1.5       
     - BMS_0.3.5         
     - magrittr_2.0.3    
-    - pacman_0.5.1      
     - readxl_1.4.3      
     - kableExtra_1.4.0  
     - lubridate_1.9.3   
